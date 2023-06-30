@@ -1,0 +1,79 @@
+[
+  {
+    "id": 44,
+    "name": "Product 44",
+    "image": "https://images.pexels.com/photos/3989394/pexels-photo-3989394.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 1299,
+    "quantity": 121
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "image": "https://images.pexels.com/photos/2783873/pexels-photo-2783873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 1299,
+    "quantity": 112
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "image": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 1299,
+    "quantity": 10
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "image": "https://images.pexels.com/photos/3910071/pexels-photo-3910071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 1111,
+    "quantity": 36
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "image": "https://dummyimage.com/400x400/ccc/000&text=Product+6",
+    "price": 1399,
+    "quantity": 87
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+    "price": 1899,
+    "quantity": 33
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "price": 299,
+    "quantity": 221
+  },
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": "https://dummyimage.com/400x400/ccc/000&text=Product+1",
+    "price": 999,
+    "quantity": 44
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": "https://dummyimage.com/400x400/ccc/000&text=Product+2",
+    "price": 1499,
+    "quantity": 54
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": "https://dummyimage.com/400x400/ccc/000&text=Product+3",
+    "price": 1099,
+    "quantity": 99
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": "https://dummyimage.com/400x400/ccc/000&text=Product+4",
+    "price": 1299,
+    "quantity": 12
+  }
+]
